@@ -1,2 +1,4 @@
 máy A đã hoàn thành login
 máy A đang fix bug login
+
+Máy A đã tách nhánh
