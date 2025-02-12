@@ -2,4 +2,5 @@ máy A đã hoàn thành login
 máy A đang fix bug login
 
 Máy A đã tách nhánh
+chỉnh sửa để làm tính năng giỏ hàng máy B
 chỉnh sửa để làm tính năng giỏ hàng máy A
